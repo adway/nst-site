@@ -502,28 +502,28 @@
     "@theme-ui/css" "^0.15.1"
     "@types/styled-system" "^5.1.13"
 
-"@theme-ui/core@^0.15.1":
-  version "0.15.1"
-  resolved "https://registry.yarnpkg.com/@theme-ui/core/-/core-0.15.1.tgz#0317ca8c888bd906f1d898063647b3029f4e4e4e"
-  integrity sha512-RogzL8+HonM+4gP9JBlABp+TbdeXR1SEScAXvBrXN0sM5VnUS4OWPjDxHRsR9uL4DTTM4+LzjAY76WJmM2FuWA==
+"@theme-ui/core@^0.15.1", "@theme-ui/core@^0.15.5":
+  version "0.15.5"
+  resolved "https://registry.yarnpkg.com/@theme-ui/core/-/core-0.15.5.tgz#b550677452727825e936d5b5dc70e2723bfa53ec"
+  integrity sha512-9kFV3Knqc3MTVqY6e7pjkjApxcZy6O6PKXcZTVFQCuhuI6oPpVa0nA32XtlOTFfiBwO5o2bIAHjr4Pja/k7t/Q==
   dependencies:
-    "@theme-ui/css" "^0.15.1"
+    "@theme-ui/css" "^0.15.5"
     deepmerge "^4.2.2"
 
-"@theme-ui/css@^0.15.1":
-  version "0.15.1"
-  resolved "https://registry.yarnpkg.com/@theme-ui/css/-/css-0.15.1.tgz#bcbc04eecb4cf46eb92fe2395afe797219ccdf01"
-  integrity sha512-Ab0t6cnLC09OzfO+SaxzUJWRr4RGfzVm/gpSjZP6CK4UETwWkQ3S2wQdeIBqD4nss0Df6PQkscpGe3eVPjXcdQ==
+"@theme-ui/css@^0.15.1", "@theme-ui/css@^0.15.5":
+  version "0.15.5"
+  resolved "https://registry.yarnpkg.com/@theme-ui/css/-/css-0.15.5.tgz#82af8759228da86a52692ccbbdd4e24e34f54f6b"
+  integrity sha512-q6ZUfNt/ip43sJMKEs8ySNJzyOL4ZCZyHXycNNoshETINQPcZhGWkJ21WlfHu9MHNPb0HZZsUqhAHMdZdIjazQ==
   dependencies:
     csstype "^3.0.10"
 
-"@theme-ui/mdx@^0.15.1":
-  version "0.15.1"
-  resolved "https://registry.yarnpkg.com/@theme-ui/mdx/-/mdx-0.15.1.tgz#056fbad85987823d52d7de3c01f830cbe815c059"
-  integrity sha512-QF0jU/nIv2lJw7u4jwEICmJxcSEpLLVzxF1Z71DQeZ7NWUnbikxjsXQe0vRf7zKzoj57D1k2nAjLw6koWQ7WTA==
+"@theme-ui/mdx@^0.15.5":
+  version "0.15.5"
+  resolved "https://registry.yarnpkg.com/@theme-ui/mdx/-/mdx-0.15.5.tgz#7563527f6acf6148d40c9e026f5a276b9d6ca5c5"
+  integrity sha512-c5BpHvtFVsrG6WTlI/DO0djREicX4YVDjA41Har7mR7G7zaqQx2As4bex/g+Hl/QD/nNqCF0RGFALq94Ub3mmQ==
   dependencies:
-    "@theme-ui/core" "^0.15.1"
-    "@theme-ui/css" "^0.15.1"
+    "@theme-ui/core" "^0.15.5"
+    "@theme-ui/css" "^0.15.5"
 
 "@theme-ui/theme-provider@^0.15.1":
   version "0.15.1"
